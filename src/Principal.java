@@ -1,7 +1,7 @@
 // Felipe Vieira Lilli 
 // 03/2023 - 04/2023
 // Teste com JFrame
-// teste de commit jeito 2
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
