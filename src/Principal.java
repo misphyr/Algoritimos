@@ -16,7 +16,7 @@ public class Principal {
 	//Variavéis para controle das dimensões da tela (hd : altura, wd: largura):
 	public static int hd = 600;
 	public static int wd = 1200;
-	// teste
+	
 	// Variavél para o tamanho do vetor:
 	public static int tamanhoDoVetor = 70;
 	
